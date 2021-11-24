@@ -1,0 +1,15 @@
+{
+  "name": "questionnaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "questions.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hussam Alshudukhi",
+  "license": "ISC"
+}
